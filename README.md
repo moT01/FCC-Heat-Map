@@ -1,5 +1,5 @@
 ## FCC-Heat-Map
-##### Average Global Surface Temperature Project for [freecodecamp.com](https://www.freecodecamp.com/challenges/visualize-data-with-a-heat-map)
+##### Average Global Surface Temperature Project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Heat-Map/)
 
 <br/>
